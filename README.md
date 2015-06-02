@@ -1,11 +1,11 @@
 SOLID
 =====
 
-__S__ingle Responsibility Principle
-__O__pen / Closed Principle
-__L__iskov Substitution Principle
-__I__nterface Segregation Principle
-__D__ependency Inversion Principle
+__S__ ingle Responsibility Principle  
+__O__ pen / Closed Principle  
+__L__ iskov Substitution Principle  
+__I__ nterface Segregation Principle  
+__D__ ependency Inversion Principle  
 
 About
 -----
